@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R5CRB0HVKSM" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-17T08:06:15.286128400Z" />
+        <name value="samsung SM-A528B" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="0259810790801598" />
           </Key>
         </key>
@@ -33,17 +45,6 @@
         <name value="samsung GT-I9515" />
         <target value="Android 5.0" />
         <api value="21" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5CRB0HVKSM" />
-          </Key>
-        </key>
-        <name value="samsung SM-A528B" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
