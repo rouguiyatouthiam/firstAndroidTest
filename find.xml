@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'tgvpro-android.app'" />
-    <option name="defaultScopeName" value="Module 'tgvpro-android.app'" />
-    <option name="SEARCH_SCOPE" value="Module 'tgvpro-android.app'" />
+    <option name="customScope" value="Project 'tgvpro-android'" />
+    <option name="defaultScopeName" value="Project 'tgvpro-android'" />
+    <option name="SEARCH_SCOPE" value="Project 'tgvpro-android'" />
   </component>
 </application>
