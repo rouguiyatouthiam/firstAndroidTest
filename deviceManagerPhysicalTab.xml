@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R58MA33R3HF" />
-          </Key>
-        </key>
-        <name value="samsung SM-A405FN" />
-        <target value="Android 9.0" />
-        <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="R5CRB0HVKSM" />
           </Key>
         </key>
         <name value="samsung SM-A528B" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R58MA33R3HF" />
+          </Key>
+        </key>
+        <name value="samsung SM-A405FN" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
