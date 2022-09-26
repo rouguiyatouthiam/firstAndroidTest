@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test_rokhayatou" type="AUTO_DETECTED" />
-      <mapping ext="features" type="Cucumber" />
       <mapping pattern="cguSteps" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="features" type="Cucumber" />
     </extensionMap>
   </component>
 </application>
