@@ -2,13 +2,15 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test_rokhayatou" type="AUTO_DETECTED" />
+      <mapping ext="features" type="Cucumber" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping pattern="cguSteps" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="" type="Kotlin" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="features" type="Cucumber" />
     </extensionMap>
   </component>
 </application>
